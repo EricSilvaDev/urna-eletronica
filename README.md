@@ -1,1 +1,3 @@
-# urna-eletronica
+# Projeto de Urna Eletrônica Utilizando Javascript
+
+## em contrução...
